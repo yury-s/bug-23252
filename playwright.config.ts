@@ -7,7 +7,7 @@ export default defineConfig({
   testDir: './tests',
   reporter: 'html',
   use: {
-    trace: 'on',
+    trace: 'off',
   },
 
   /* Configure projects for major browsers */
